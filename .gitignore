@@ -492,8 +492,26 @@ compile_commands.json
 
 
 
+
+
+
+
+
+
 ### CMake ###
 *.cmake
+*.prev
+*.exe
+*.d
+*_autogen
+
+
+
+
+
+
+
+
 
 
 
